@@ -1,0 +1,6 @@
+Vertices:
+    number
+    color
+    parent
+    discover
+    finish
